@@ -1,5 +1,9 @@
 ## Evacuation Agent (Sendai)
 
+## 🚀 Live Demo
+https://evacuation-agent.vercel.app/
+
+## About
 Dark-mode web UI + FastAPI backend that:
 
 - Detects/classifies calamities (`earthquake`, `tsunami`, `typhoon`, `none`) using an XGBoost classifier.
