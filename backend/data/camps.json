@@ -1,0 +1,90 @@
+[
+  {
+    "id": "sendai_tsunami_tower_1",
+    "name": "Arahama Tsunami Evacuation Tower",
+    "lat": 38.2283,
+    "lng": 141.0283,
+    "capacity": 500,
+    "type": "tsunami_tower",
+    "elevation_m": 12.0,
+    "address": "Arahama, Wakabayashi-ku, Sendai",
+    "valid_for": ["tsunami", "typhoon"]
+  },
+  {
+    "id": "sendai_tsunami_tower_2",
+    "name": "Minaminakama Tsunami Tower",
+    "lat": 38.2150,
+    "lng": 141.0180,
+    "capacity": 350,
+    "type": "tsunami_tower",
+    "elevation_m": 15.0,
+    "address": "Minaminakama, Wakabayashi-ku, Sendai",
+    "valid_for": ["tsunami", "typhoon"]
+  },
+  {
+    "id": "sendai_school_1",
+    "name": "Sendai Higashi High School Shelter",
+    "lat": 38.2540,
+    "lng": 140.9820,
+    "capacity": 1200,
+    "type": "school",
+    "elevation_m": 25.0,
+    "address": "Miyagino-ku, Sendai",
+    "valid_for": ["earthquake", "typhoon", "none"]
+  },
+  {
+    "id": "sendai_community_1",
+    "name": "Miyagino Community Center",
+    "lat": 38.2630,
+    "lng": 140.9700,
+    "capacity": 800,
+    "type": "community_center",
+    "elevation_m": 30.0,
+    "address": "Miyagino-ku, Sendai",
+    "valid_for": ["earthquake", "typhoon", "none"]
+  },
+  {
+    "id": "sendai_park_1",
+    "name": "Nishi Park Evacuation Zone",
+    "lat": 38.2700,
+    "lng": 140.8680,
+    "capacity": 3000,
+    "type": "park",
+    "elevation_m": 55.0,
+    "address": "Aoba-ku, Sendai",
+    "valid_for": ["tsunami", "earthquake", "typhoon", "none"]
+  },
+  {
+    "id": "sendai_gymnasium_1",
+    "name": "Sendai City Gymnasium",
+    "lat": 38.2602,
+    "lng": 140.8840,
+    "capacity": 2000,
+    "type": "gymnasium",
+    "elevation_m": 40.0,
+    "address": "Aoba-ku, Sendai",
+    "valid_for": ["earthquake", "typhoon", "none"]
+  },
+  {
+    "id": "sendai_tsunami_tower_3",
+    "name": "Yuriage Tsunami Evacuation Tower",
+    "lat": 38.1980,
+    "lng": 140.9930,
+    "capacity": 400,
+    "type": "tsunami_tower",
+    "elevation_m": 18.0,
+    "address": "Natori, Miyagi",
+    "valid_for": ["tsunami", "typhoon"]
+  },
+  {
+    "id": "sendai_hospital_1",
+    "name": "Tohoku University Hospital (Emergency Shelter)",
+    "lat": 38.2594,
+    "lng": 140.8728,
+    "capacity": 500,
+    "type": "hospital",
+    "elevation_m": 42.0,
+    "address": "Seiryo-machi, Aoba-ku, Sendai",
+    "valid_for": ["earthquake", "tsunami", "typhoon", "none"]
+  }
+]
